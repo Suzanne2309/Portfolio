@@ -478,10 +478,6 @@ section {
         font-size: 1.4rem;
     }
 
-    .mobile__hide {
-        visibility: hidden;
-        height: 0;
-    }
 }
 
 @media screen and (min-width:750px) {
