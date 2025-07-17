@@ -478,6 +478,10 @@ section {
         font-size: 1.4rem;
     }
 
+    .portfolio .grid__item {
+        max-width: 100%;
+    }
+
 }
 
 @media screen and (min-width:750px) {
