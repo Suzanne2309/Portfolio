@@ -1,4 +1,4 @@
-                              ----- Portfolio professionnel -----
+                              ----- Portfolio professionnel (PROJET Front-end) -----
 
 📌 Contexte
 
